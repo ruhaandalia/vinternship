@@ -5,13 +5,13 @@ permalink: /intro/
 order: 1
 ---
 
-# Welcome to the NPTEL Winter Internship 2025
+# Welcome to Pinternship
 
 ## About the Program
 
-Welcome to the **NPTEL Winter Internship 2025** – a comprehensive **Full-Stack Development Program** conducted under the expert guidance of **Prof. Sudarshan Iyengar** at **IIT Ropar's Vicharanashala Labs**, in collaboration with NPTEL.
+Welcome to **Pinternship** – a comprehensive **Full-Stack Development Internship Program** conducted under the expert guidance of **Prof. Sudarshan Iyengar** at **IIT Ropar's VLED Lab**.
 
-This internship is designed for **400+ carefully shortlisted learners** who are passionate about mastering modern web development technologies and building real-world applications.
+This internship is designed for learners who are passionate about mastering modern web development technologies and building real-world applications.
 
 ---
 
@@ -38,20 +38,28 @@ This program follows a structured, progressive learning pathway covering the com
 
 ## Program Structure
 
-The internship is organized into **two progressive phases**:
+The internship program is focused on:
 
-### **Phase 1: Foundational Training**
-Build a strong foundation with prerequisite modules covering essential concepts and technologies. This phase ensures all learners have uniform preparedness before advancing to full-stack development.
+### **Core Requirement**
+Complete all modules on the **ViBe platform** covering TypeScript, React, Express.js, and MongoDB.
 
-### **Phase 2: Real-Time Project Exposure**
-Apply your skills to real-world projects, collaborate with peers, and gain experience in professional development workflows.
+### **Optional Learning Resources**
+**Case Studies** - Additional hands-on exercises and documentation for extra knowledge and deeper understanding. These are supplementary and not mandatory for course completion.
+
+### **Opportunities for Top Performers**
+Participants who successfully complete the course may receive:
+- **Recommendations** from VLED lab teaching team
+- **Internship opportunities** with VLED Lab for further practical experience
 
 ---
 
 ## Learning Resources
 
-### **Case Studies**
-Explore our extensive library of case studies organized by technology:
+### **ViBe Platform (Required)**
+The main learning platform where you'll complete all required course modules covering the MERN stack.
+
+### **Case Studies (Optional)**
+Supplementary learning materials for extra knowledge and practice:
 - [TypeScript Fundamentals](../case-studies/#typescript)
 - [React Development](../case-studies/#react)
 - [Express.js Backend](../case-studies/#express)
@@ -70,32 +78,35 @@ Each case study is structured with:
 
 1. **Review the [Concept Note](../Conceptnote/)** to understand the program structure and objectives
 2. **Check the [FAQ Section](../faq/)** for common questions and answers
-3. **Explore the [Case Studies](../case-studies/)** to begin your learning journey
-4. **Use our chatbot** for instant answers to your queries
-5. **Join the community** and collaborate with fellow interns
+3. **Access the ViBe platform** to begin your required course modules
+4. **Explore the [Case Studies](../case-studies/)** (optional) for additional learning
+5. **Use our chatbot** for instant answers to your queries
+6. **Join the community** and collaborate with fellow participants
 
 ---
 
 ## Program Goals
 
-By the end of this internship, you will:
+By the end of this internship program, you will:
 
 - ✅ Master full-stack development with the MERN stack
 - ✅ Build scalable, maintainable, and production-ready applications
 - ✅ Understand industry best practices and design patterns
-- ✅ Gain real-world project experience
-- ✅ Develop collaborative development skills
-- ✅ Create a portfolio of projects to showcase your expertise
+- ✅ Complete all ViBe course modules (required)
+- ✅ Optionally complete case studies for deeper knowledge
+- ✅ Gain eligibility for recommendations and internship opportunities (based on performance)
 
 ---
 
 ## Evaluation Criteria
 
 Your performance will be evaluated based on:
+- **ViBe Course Completion** - Finishing all required modules on the ViBe platform
 - **Technical Skills** - Mastery of concepts and technologies
 - **Consistency** - Regular engagement and progress
-- **Contributions** - Quality of code and project work
-- **Collaboration** - Teamwork and communication
+- **Optional:** Case study completion and peer endorsements for additional recognition
+
+Top performers may receive recommendations or internship opportunities with VLED Lab.
 
 ---
 
@@ -112,7 +123,7 @@ You're not alone in this journey! The program provides:
 
 ## Ready to Begin?
 
-Start your journey by exploring the foundational modules and case studies. Remember, consistent effort and engagement are key to success in this program.
+Start your journey by accessing the ViBe platform and completing the required modules. Explore the optional case studies for additional practice and deeper understanding. Remember, consistent effort and engagement are key to success in this program.
 
 **Let's build something amazing together!**
 

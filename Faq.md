@@ -11,31 +11,29 @@ order: 2
 2. [Mode of Internship & Attendance](#2-mode-of-internship--attendance)
 3. [Mentorship & Guidance](#3-mentorship--guidance)
 4. [Support and Resolution Protocol](#4-support-and-resolution-protocol)
-5. [Stipend and Certification](#5-stipend-and-certification)
-6. [Completion & Certification](#6-completion--certification)
-7. [Report Submission & Deadline](#7-report-submission--deadline)
-8. [Termination & Rejoining](#8-termination--rejoining)
-9. [ViBe Platform](#9-vibe-platform)
-10. [Cliq Channel](#10-cliq-channel)
-11. [GitHub Assignment Submission](#11-github-assignment-submission)
-12. [Health Points System](#12-health-points-system)
-13. [MERN Case Studies](#13-mern-case-studies)
+5. [Completion & Certification](#5-completion--certification)
+6. [Discontinuation Policy](#6-discontinuation-policy)
+7. [ViBe Platform](#7-vibe-platform)
+8. [Cliq Channel](#8-cliq-channel)
+9. [MERN Case Studies](#9-mern-case-studies)
+<!-- 10. [Health Points System](#10-health-points-system) -->
+<!-- 11. [Viva/PES (Endorsements)](#11-vivapes-endorsements) -->
 
 ---
 
 ## 1. Internship Overview
 
-**1.1 What is the start and end date of this internship?**  
-This winter internship is hosted by the Indian Institute of Technology Ropar in online mode and will begin on **December 22nd**.
+**1.1 What is this internship about?**  
+Pinternship is organized by VLED Lab at the Indian Institute of Technology Ropar in online mode. It's a comprehensive full-stack development internship program focused on the MERN stack (MongoDB, Express.js, React, Node.js/TypeScript).
 
-**1.2 What is the duration of this internship?**  
-The internship is hosted at the Indian Institute of Technology Ropar in **online mode** and will be of **4 weeks** duration.
+**1.2 Is this internship time-bound or duration-based?**  
+The internship follows a structured timeline with specific milestones and deliverables. Please check the program schedule for details.
 
 **1.3 What is the mode of this internship?**  
-The internship mode will be **online only**.
+The internship will be conducted in **online mode only**.
 
-**1.4 What are the timings and schedule of this internship?**  
-Internship hours are scheduled between **9:00 AM and 6:00 PM**, from **Monday to Saturday**.
+**1.4 Are there fixed timings or live sessions?**  
+The program includes scheduled live sessions, workshops, and mentorship meetings that are optional.
 
 ---
 
@@ -44,22 +42,18 @@ Internship hours are scheduled between **9:00 AM and 6:00 PM**, from **Monday to
 **2.1 Can we opt for an on-campus/offline internship?**  
 The program will be conducted strictly in **online mode**.
 
-**2.2 Is my attendance at online sessions compulsory?**  
-Yes, attendance at every online session is **mandatory**.  
-Up to **two warnings** may be issued. Further violations may result in **termination**.
+**2.2 Is attendance tracked in this internship?**  
+No, it is completely self paced and open internship.
 
-**2.3 I registered using one name but attend sessions with a different name or email. Will this affect my attendance?**  
-Yes. You must attend using the **same name and email ID** used during NPTEL registration.
-
-**2.4 Should I fill the attendance sheet attached to the NPTEL offer letter?**  
-Please **clarify this directly with the NPTEL team**.
+**2.3 Do I need to use a specific name or email for the internship?**  
+Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for proper tracking of your progress.
 
 ---
 
 ## 3. Mentorship & Guidance
 
 **3.1 Will the course instructor supervise our work directly?**  
-The instructor **may interact** with interns depending on project requirements.  
+The instructor **may interact** with participants depending on project requirements.  
 Mentors and coordinators will engage via **live sessions** and **forums**.
 
 ---
@@ -78,11 +72,11 @@ Raise a **second ticket** with the subject:
 The **Mentors Team**, via a **voice call**.
 
 **4.4 How do I escalate further?**  
-After **48 hours**, email the **Internship Sponsor**, CC’ing:
+After **48 hours**, email the **Program Sponsor**, CC'ing:
 - Prof. Sudarshan Iyengar  
 - Faculty reference  
 - Department HOD  
-- dled@iitrpr.ac.in  
+- vled@iitrpr.ac.in  
 
 Include ticket numbers and dates.
 
@@ -94,60 +88,51 @@ Yes. This **three-step process** must be followed.
 
 ---
 
-## 5. Stipend and Certification
+## 5. Completion & Certification
 
-**5.1 Where can I find information on stipend and certification?**  
-Refer to the **official NPTEL website**.
+**5.1 What are the program completion criteria?**  
+- Completion of **all ViBe platform course modules** (Required)
+- **Optional:** Case studies for additional learning and recognition
 
-**5.2 Will recommendation letters be provided?**  
-Not guaranteed. Issued **at the instructor’s discretion**.
+**5.2 Where can I find information on certification?**  
+Please refer to the official communication from VLED Lab or contact the program coordinators for information on certification requirements and process.
 
----
-
-## 6. Completion & Certification
-
-**6.1 What are the internship completion criteria?**  
-- **100% attendance** (1 day eligible leave)  
-- Completion of **MERN development course**  
-- Completion of **assigned project**
+**5.3 Will recommendation letters be provided?**  
+Not guaranteed. Issued **at the instructor's discretion** based on performance and engagement.
 
 ---
 
-## 7. Report Submission & Deadline
+## 6. Discontinuation Policy
 
-**7.1 What happens if I miss deadlines?**  
-Late submissions may result in being **flagged as a defaulter**.
+**6.1 What is the expected pace of learning?**  
+While this program is flexible, we expect participants to maintain steady progress. You should aim to complete modules consistently to ensure continuous engagement and build momentum in your learning journey.
 
----
+**6.2 What happens if I don't maintain regular progress?**  
+If you remain inactive or fail to make reasonable progress over an extended period, we may discontinue your access to the program. This policy helps us ensure that active learners have the best support and resources.
 
-## 8. Termination & Rejoining
+**6.3 Can I appeal a discontinuation decision?**  
+No. Discontinuation decisions are **final** and cannot be appealed.
 
-**8.1 Can I rejoin after termination due to exams?**  
-No. Any **academic overlap** disqualifies continuation.
-
-**8.2 Can I appeal a termination?**  
-No. Terminations are **final**.
-
-**8.3 Will future batches be identical?**  
-You must **reapply**. Funding is **not guaranteed**.
+**6.4 Can I rejoin the program after discontinuation?**  
+No. Once discontinued, you cannot rejoin the current program. You would need to apply fresh for any future program offerings, subject to availability.
 
 ---
 
-## 9. ViBe Platform
+## 7. ViBe Platform
 
-**9.1 How do I log in to ViBe?**  
+**7.1 How do I log in to ViBe?**  
 Invite link → Continue as Student → Continue with Google → Dashboard.
 
-**9.2 Invite accepted but shows “No course enrolled”?**  
+**7.2 Invite accepted but shows "No course enrolled"?**  
 Verify email → Check alias → Contact Support.
 
-**9.3 Why are videos stuck or repeating?**  
+**7.3 Why are videos stuck or repeating?**  
 Sequential viewing, camera/mic access, lighting, and noise conditions matter.
 
-**9.4 Can I use mobile or tablet?**  
+**7.4 Can I use mobile or tablet?**  
 No. Only **desktop/laptop** is supported.
 
-**9.5 I'm experiencing video issues (stuck, looping, skipping) on ViBe. How do I troubleshoot?**  
+**7.5 I'm experiencing video issues (stuck, looping, skipping) on ViBe. How do I troubleshoot?**
 Try these troubleshooting steps in order:
 
 1. **Refresh the page** and check multiple times
@@ -158,7 +143,7 @@ Try these troubleshooting steps in order:
 
 If the issue persists after trying all steps, **record the issue** and email it to: **internship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
-**9.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
+**7.6 I have completed all videos and quizzes in the ViBe course, but my progress is still showing less than 100%. What should I do?**  
 
 Please do not worry. This is a **dashboard-level technical issue** that has already been acknowledged by the support team and communicated in the Cliq threads. The team is actively working on resolving it, and your progress will be **updated automatically** once the issue is fixed.
 
@@ -171,16 +156,16 @@ If the issue still persists after these steps, no further action is required fro
 
 ---
 
-## 10. Cliq Channel
+## 8. Cliq Channel
 
-**10.1 How do I join the Cliq Channel?**  
+**8.1 How do I join the Cliq Channel?**  
 Follow these steps **only on a laptop or desktop** (mobile is not supported):
 
 1. Check your email for the **Cliq channel invite** and open it.
 2. Sign up or log in to **Zoho Cliq using Google**, using the **same email ID** on which you received the invite.
 3. In the left navigation bar, select **#Channels**.
 4. Click on the **Join** button.
-5. Locate **#NPTEL Winter Internship** and click **Join**.
+5. Locate **#Pinternship** and click **Join**.
 
 **10.2 I am unable to join the Cliq Channel due to the message  
 “Collaboration with different regional external users in Zoho Cliq is disabled”. What should I do?**  
@@ -206,7 +191,7 @@ Follow the steps mentioned in **10.2** to enable **Universal Access**, then refr
 If you are still unable to send messages, take a **screenshot or screen recording** of the issue, briefly explain the problem, and email it to:  
 **internship-support@vicharanashala.zohodesk.in** between **9:00 AM and 9:00 PM**.
 
-**10.4 How do I update my profile picture so everyone can view it?**  
+**8.4 How do I update my profile picture so everyone can view it?**  
 
 1. Open **Zoho Cliq** on desktop.
 2. Click your **Profile icon** (top-right corner).
@@ -219,7 +204,7 @@ If you are still unable to send messages, take a **screenshot or screen recordin
 9. Refresh the page once more and **wait for some time**, as it may take a while for the updated profile picture to become visible to everyone.
 
 
-**10.5 How can I use the Cliq Channel effectively?**  
+**8.5 How can I use the Cliq Channel effectively?**  
 
 - Ask queries only in the **designated Cliq channel**.
 - Reply **only within the relevant thread**, not in the main channel.
@@ -234,7 +219,7 @@ If you are still unable to send messages, take a **screenshot or screen recordin
 
 These practices help maintain clarity and ensure no updates are missed.
 
-**10.6 I'm having issues with profile pictures on Cliq Channel. What should I do?**  
+**8.6 I'm having issues with profile pictures on Cliq Channel. What should I do?**  
 
 If you're facing profile picture issues, try these troubleshooting steps:
 
@@ -257,66 +242,12 @@ If you're facing profile picture issues, try these troubleshooting steps:
 
 ---
 
-## 11. GitHub Assignment Submission
+## 9. MERN Case Studies
 
-**11.1 How do I submit my GitHub assignment?**  
+**9.1 What are Case Studies?**  
+Case studies are **optional, well-structured, documentation-based lessons** designed to provide extra knowledge and help you apply what you have learned through **hands-on coding**. Each case study focuses on real-world problem-solving, collaborative thinking, and practical implementation to help you become more confident with the technologies covered in the ViBe course.
 
-Video guide: https://youtu.be/lrpjRo9Z02Y  
-
-Steps:
-- Accept the assignment
-- The repository will be **automatically created**
-- Read the `README.md` file carefully to understand:
-  - what you need to do for the assignment, and  
-  - which files you are allowed to modify
-- Make the necessary changes
-- Commit and push your changes to GitHub
-
-
-**11.2 I am unable to open my assignment. What should I do?**  
-Try these solutions:
-
-1. **Direct GitHub editing**: Open the source file directly on GitHub and edit it there
-2. **Wait for VS Code loading**: If using VS Code, wait for the assignment to fully load (this may take some time)
-3. **Clone locally**: Use VS Code to clone the repository to your local folder, make changes locally, then push to GitHub
-
-**11.3 How do auto-graded assignments work?**  
-Auto-graded assignments are automatically evaluated each time you commit your code:
-
-- After completing and committing your assignment, look for a **green tick mark** indicating successful grading
-- Navigate to **GitHub Actions** tab in your repository to check the auto-grading workflow status
-- A **green tick** means your code passed all test cases
-- A **red cross** indicates your code has errors or failed some test cases
-- **Every commit triggers auto-grading**, so you can fix issues and commit again until you get the green tick
-
----
-
-## 12. Health Points System
-
-**12.1 What are health points?**  
-Health points are a scoring system used to track individual and class participation and engagement throughout the internship.
-
-**12.2 How do I earn individual health points?**  
-You can earn individual health points by:
-- **Helping peers** on the Cliq channel
-- **Making progress** on the ViBe platform
-- Health points are awarded **once per day** for individuals
-
-**12.3 How do I lose individual health points?**  
-You lose health points for:
-- **Not having your camera on** during Zoom sessions
-- **Asking queries outside** the designated Cliq channel
-- **Replying to queries** outside the proper thread in the Cliq channel
-
-**12.4 What are class health points?**  
-Class health points are awarded to the **entire class** when the number of students attending Zoom meetings meets the **minimum threshold requirement**.
-
----
-
-## 13. MERN Case Studies
-
-**13.1 What are Case Studies?**  
-Case studies are **well-structured, documentation-based lessons** designed to help you apply what you have learned through **hands-on coding**. Each case study focuses on real-world problem-solving, collaborative thinking, and practical implementation to help you become more confident with the technologies covered in the ViBe course.
+**Note:** Case studies are **supplementary and not required** for program completion. They are provided for participants who want to deepen their understanding and gain additional practice.
 
 Case studies are organized by technology, including:
 - TypeScript Fundamentals
@@ -332,23 +263,24 @@ Each case study includes:
 - Best practices and recommended patterns
 
 
-**13.2 How do I get started with Case Studies?**  
-You can get started with case studies by following these steps:
+**9.2 How do I get started with Case Studies?**  
+Case studies are **optional** and for extra knowledge. If you wish to explore them:
 
 1. Click the **Case Studies** link in the navigation bar at the top of the page.
 2. Select a **technology** and then choose a **lesson**.
 3. Read the entire documentation carefully to understand the concept and tasks to be performed.
 4. Open a code editor (for example, **VS Code**) and implement the tasks in a **single file**, unless specified otherwise.
-5. Upload the file along with your details for each lesson using the provided submission link.
+5. Optionally upload the file along with your details for each lesson using the provided submission link.
 
+<!--
 
-**13.3 How do I submit the case studies?**  
+**9.3 How do I submit the case studies?**  
 
 1. Visit the submission form:  
    https://forms.zohopublic.in/annamai1/form/MERNCASEStudyChallenge/formperma/vSrDY7Uw2l5mw7UIAUk2gh2SCOryplPMeU7IncHhSX0
 2. Fill in all required details carefully, including:
    - First name and last name  
-   - Email ID associated with the internship  
+   - Email ID associated with the program  
    - Technology name and lesson number completed  
 3. Upload the file containing your solution  
    (supported formats include `.js`, `.ts`, `.txt`, `.zip`, etc.)
@@ -356,11 +288,11 @@ You can get started with case studies by following these steps:
 5. Repeat this process for **each lesson** you complete.
 
 
-**13.4 What should I do if a lesson contains multiple files?**  
+**9.4 What should I do if a lesson contains multiple files?**  
 For lessons (such as React) that involve **multiple files**, compress all related files into a **single ZIP file** and upload the ZIP file during submission.
 
 
-**13.5 Where can I get help if I am stuck with the case studies?**  
+**9.5 Where can I get help if I am stuck with the case studies?**  
 If you are facing difficulties, feel free to:
 - Join the **breakout rooms** during Zoom sessions  
 - Collaborate and discuss solutions with your peers  
@@ -368,8 +300,99 @@ If you are facing difficulties, feel free to:
 This collaborative approach is encouraged to enhance learning and problem-solving skills.
 
 
-**13.6 Where can I view my submission status and access the leaderboard and dashboard?**  
+**9.6 Where can I view my submission status and access the leaderboard and dashboard?**  
 You can track your submission status, access the leaderboard, and view the dashboard by visiting the following link:  
 https://docs.google.com/spreadsheets/d/1vOQY7BYRMmNiSCBkzrYR-b-1r54jViEmzvL9nD12PoI/edit?gid=2050387016#gid=2050387016
 
 
+
+---
+
+## 10. Health Points System
+
+**10.1 What are health points?**  
+Health points are a scoring system used to track individual and class participation and engagement throughout the program.
+
+**10.2 How do I earn individual health points?**  
+You can earn individual health points by:
+- **Helping peers** on the Cliq channel
+- **Making progress** on the ViBe platform
+- Health points are awarded **once per day** for individuals
+
+**10.3 How do I lose individual health points?**  
+You lose health points for:
+- **Not having your camera on** during Zoom sessions
+- **Asking queries outside** the designated Cliq channel
+- **Replying to queries** outside the proper thread in the Cliq channel
+
+**10.4 What are class health points?**  
+Class health points are awarded to the **entire class** when the number of students attending Zoom meetings meets the **minimum threshold requirement**.
+
+---
+
+## 11. Viva/PES (Endorsements)
+
+**11.1 How will the viva/evaluation process be conducted?**  
+Each participant is required to **select at least 5 evaluators (other participants)** who will evaluate their work, primarily based on their **case studies** solutions. Hence, make sure you are completed with all the Case studies before you evaluate someone or get evaluated yourself.
+
+**11.2 What is the role of the evaluators?**  
+The evaluators are expected to be **sincere** and give their **best effort** while evaluating the case studies.  
+The evaluation is mainly an **endorsement of learning**, not a formal grading process.
+
+**11.3 Will the evaluations be verified?**  
+Yes. The team will **randomly second-check** evaluated case studies.  
+If any **anomaly** is detected, the following actions may be taken:
+- Re-evaluation of the evaluated participant's case studies  
+- Re-evaluation of the evaluator’s own case studies  
+- Re-evaluation of all case studies previously evaluated by that evaluator  
+
+To avoid such an **anomaly cascade**, choose your evaluators carefully.
+
+**11.4 Can two participants evaluate each other?**  
+No. If **A evaluates B**, then **B cannot evaluate A**.
+
+**11.5 Can I choose evaluators from my own institute?**  
+Preferably, **no**.  
+Choosing evaluators from your own institute may raise a **first level of suspicion**. While this is **discouraged**, it is **not enforced as a strict rule**.
+
+**11.6 How many evaluators do I need?**  
+You need **exactly 5 evaluators to endorse you**.  
+If any selected person is unwilling to endorse you, you must **find a replacement**.  
+Overall, you must ensure that **at least 5 people endorse your learning**.
+
+**11.7 What does the endorsement involve?**  
+Your evaluators will fill out a **Google Form** stating that they **endorse your learning**.  
+- There is **no rating or scoring**
+- Evaluators may add **optional comments**
+- Endorsements will be submitted through a form that will be **displayed on the dashboard**
+
+**11.8 When should the evaluation be done?**  
+It is recommended to evaluate **only after completing all case studies** or once you are **confident in the concepts**.
+
+**11.9 Do we need to record our evaluation interactions?**  
+No. You only need to **interact and endorse** the person.  
+How you conduct the interaction is **entirely up to you**. No recordings are required.
+
+**11.10 Can I appeal an endorsement decision?**  
+No.  
+This is intentional, as participants are expected to choose **trustworthy evaluators** who will endorse them **honestly and fairly**.
+
+**11.11 Can I evaluate more than 5 people?**  
+Yes.  
+You must be evaluated by **exactly 5 people**, but you may **evaluate as many participants as you wish**.
+
+**11.12 What if I want to remove an endorsement or someone endorses me without my consent?**  
+You will be provided with a **separate form** that allows you to **remove an endorsement** made by a particular person.
+
+**11.13 What if I evaluate many people but struggle to find evaluators for myself?**  
+The teaching team **appreciates participants who evaluate many peers**.  
+In such cases, **teaching team members** can be requested to act as your evaluators.
+
+Additionally, **Silver and Golden Tickets** will be issued to selected participants.  
+- Participants receiving these tickets **do not need peer evaluation**
+- They will be **directly evaluated by Sudarshan sir and the teaching team**
+- Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
+
+**11.14 How do I earn a Silver ticket?**  
+Anyone who endorses **more than 25 people** will be evaluated by the Teaching Team and will be issued a Silver Ticket.
+-->
