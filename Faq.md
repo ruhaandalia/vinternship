@@ -47,7 +47,7 @@ The Internship ID will be mentioned in the offer letter sent by NPTEL POC.
 The program will be conducted strictly in **online mode**.
 
 **2.2 Is attendance tracked in this internship?**  
-Attendance is compulsory for the standups that are scheduled for every Monday, Wednesday and Friday at 8:45 PM. Attendance is tracked for all the live session activities. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
+Attendance is compulsory for all the standups, please check your Cohort page on the landing page for days and timing of standup for your cohort. Attendance is tracked for all the live session activities. Attendance will be counted **only if your camera remains ON for the entire Zoom session**. If the camera is not switched on for a sustained duration, the session may **not be considered as full attendance**.
 
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Cliq, etc.) for automated tracking of your progress.
@@ -96,13 +96,13 @@ Yes, your project mentors can schedule a meeting based on the doubts and issues 
 ## 4. Support and Resolution Protocol
 
 **4.1 Where do I raise my concern initially?**  
-Initially, try to get your query resolved from the FAQ. Check the Broadcast cliq channel, else from your fellow interns in the Discussion Cliq channels. If the query is still not resolved, you can email your query to the email ID below.
+Initially, try to get your query resolved from the FAQ. Check the Broadcast cliq channel, else from your fellow interns in the Discussion Cliq channel/thread. If the query is still not resolved, you can email your query to the email ID below.
 
 Email **pinternship-support@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
 
 **4.2 What if I don’t receive a response within 24 hours?**  
-Use the **Pinternship - Escalation** Cliq channel to raise your concern. We recommend that you follow the escalation policy.
+Use the **Pinternship - Escalation** Cliq channel/thread to raise your concern. We recommend that you follow the escalation policy.
 
 **4.3 Is this escalation process mandatory?**  
 Yes, this **three-step process** must be followed.
@@ -114,8 +114,8 @@ Yes, this **three-step process** must be followed.
 **5.1 What are the program completion criteria?**  
 - Completion of all course modules on the Learning platform. (Required)
 - Completion of case studies provided for learning using the code. (Required)
-- Completion of Viva/endorsement for the Case Study
-- Contribution to real-time applications or projects
+- Completion of Viva/endorsement for the Case Study.
+- Contribution to real-time applications or projects.
 
 **5.2 Where can I find information on certification?**  
 NPTEL interns should contact the NPTEL internship team for the information regarding certificates.
@@ -344,14 +344,14 @@ After completing all ViBe MERN modules:
 4. Try to understand each case study first, then attempt to code a solution for it.
 5. Open a code editor (for example, **VS Code**) and implement the tasks.
 5. Getting stuck is normal. You can ask questions on Cliq, revisit the ViBe videos, and discuss with others.
-7. Submit your work using the provided [submission link](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform){:target="_blank"}.
+7. Submit your work using the submission link provided on your cohort specific page.
 
 **9.4 What comes after Case Studies?**  
 After completing case studies, you move ahead to the Endorsement phase. The Self-healing endorsement network is a peer evaluation strategy that the learner needs to accomplish before getting into the next phase. The learner is expected to take an endorsement from a peer and move ahead to the third component that is **Practical Learning (Projects)**. Please visit - [The Self-Healing Endorsement Network page]({{ site.baseurl }}/endorsements/) to learn more about endorsements.
 
 **9.5 How do I submit the case studies?**  
 
-1. Visit the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSc8paXqKkIl95cFmZxOunoMjJFeB_jedPQ5_eEd3m0h_FQFLw/viewform){:target="_blank"}.
+1. Visit the submission form provided in your cohort specific pages.
 2. Fill in all required details carefully, including:
    - First name and last name  
    - Email ID associated with the internship  
@@ -375,7 +375,7 @@ This collaborative approach is encouraged to enhance learning and problem-solvin
 
 
 **9.8 Where can I view my submission status and access the leaderboard and dashboard?**  
-You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashboard section on the website homepage.
+You can track your submission status, access the leaderboard, and view the dashboard by visiting the Pinternship Live Dashboard section on your cohort specific page.
 
 **9.9. What next if I completed my Case Studies and I am done with my endorsements?**
 We have some project ideas from the existing open source projects from Vicharanashala Lab for Education Design and Annam.AI listed on the Pinternship website. You can contribute to these real-time open-source projects, working with our developers to build real applications and add new features.
@@ -539,7 +539,7 @@ This dataset is used to:
 **11.11 How do I submit endorsements? (Google Form instructions)**  
 All endorsements and de-endorsements must be submitted through the **official Google Form**:
 
-🔗 **Endorsement Form Link:**  [Click Here](https://forms.gle/LpaNWG9SiYzshCsw8){:target="_blank"}
+🔗 **Endorsement Form Link:**  Check on your Cohort specific page which you can access from the homepage.
 
 The form contains **mandatory sections**:
 1. **Endorser’s Name and Email**
