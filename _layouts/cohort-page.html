@@ -26,9 +26,12 @@ layout: default
 </div>
 
 <div style="background: #f6f8fa; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #{{ status_color }}; margin-bottom: 2rem;">
-  <h3 style="margin-top: 0; color: #24292e;">🗓️ Live Session Schedule</h3>
+  <h3 style="margin-top: 0; color: #24292e;">🗓️ Session Schedule</h3>
   <p style="margin: 0; color: #586069;">
     <strong>Stand-ups:</strong> {{ page.schedule.standups.days | join: ", " }} at {{ page.schedule.standups.time }}
+  </p>
+  <p style="margin: 8px 0 0 0; color: #586069;">
+    <strong>Live Sessions:</strong> On Saturday(after 2:00 PM) and Sunday.
   </p>
 </div>
 
