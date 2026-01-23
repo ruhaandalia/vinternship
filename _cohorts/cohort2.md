@@ -11,7 +11,7 @@ color: "059669"
 schedule:
   standups:
     days: ["Tuesday", "Thursday", "Saturday"]
-    time: "8:45 PM IST"
+    time: "8:45 PM - 9:30 PM IST (duration may vary)"
 ---
 
 ## 📋 General Information
