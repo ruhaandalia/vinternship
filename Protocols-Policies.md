@@ -33,7 +33,7 @@ If your query remains unresolved, write to the Support Desk at **vinternship@vic
 
 If you do not receive a response within 24 hours, you may raise a second ticket with the subject line: *"Attention Please – Follow-up on Ticket #[Original Ticket Number]"*. This ticket will be escalated to our Mentors Team, who will assume responsibility for it. They will schedule a call discussion to ensure your issue is clearly understood and resolved directly.
 
-If your concern remains unaddressed after 48 hours of your first ticket (and after raising a follow-up), you may escalate the matter via email to the Internship Sponsor. Please CC **Prof. Sudarshan Iyengar** directly, along with your department’s faculty reference, your department HOD, and the DLED Team at `dled@iitrpr.ac.in`. Ensure that your email includes your full name, department, reference numbers and dates of the two Zoho Desk tickets, and a brief explanation of the unresolved issue.
+If your concern remains unaddressed after 48 hours of your first ticket (and after raising a follow-up), you may escalate the matter via email to the Internship Sponsor. Please CC **Prof. Sudarshan Iyengar** directly, along with your department’s faculty reference, your department HOD, and the VLED Team at `dled@iitrpr.ac.in`. Ensure that your email includes your full name, department, reference numbers and dates of the two Zoho Desk tickets, and a brief explanation of the unresolved issue.
 
 To maintain consistency and ensure efficient support, we request all interns to strictly follow this three-step resolution path for all issues.
 
