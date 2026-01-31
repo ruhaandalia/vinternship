@@ -51,12 +51,12 @@ Attendance is compulsory for all the standups, please check your Cohort page on 
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Zoom etc.) for automated tracking of your progress.
 
-**2.4 Can I use my college or non-Gmail email ID for registration?**
-No. This is VERY IMPORTANT.
-  ->You must register using a Gmail ID (@gmail.com).
-  ->Non-Gmail IDs will not be registered
-  ->Even college Google Workspace emails may cause issues
-👉 Please ensure you use a personal @gmail.com address while registering.
+**2.4 Can I use my college or non-Gmail email ID for registration?** 
+No. This is VERY IMPORTANT. 
+  ->You must register using a Gmail ID (@gmail.com). 
+  ->Non-Gmail IDs will not be registered 
+  ->Even college Google Workspace emails may cause issues 
+👉 Please ensure you use a personal @gmail.com address while registering. 
 
 **2.5 Should I fill the attendance form attached to the NPTEL offer letter?**  
 Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
